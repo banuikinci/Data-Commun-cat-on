@@ -1,0 +1,16 @@
+# Geçici dosyalar
+*.log
+*.tmp
+
+# IDE Ayarları
+.vscode/
+
+# Derleme ve Geçici Klasörler
+bin/
+obj/
+Logs/
+
+# Uygulama Dosyaları
+*.exe
+*.o
+
